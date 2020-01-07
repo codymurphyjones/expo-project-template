@@ -17,10 +17,10 @@ expo login -u username -p password
 
 ### Global Directories
 - `Components`: `./src/components`,
--`Screens`: `./src/screens`,
--`Features`: `./src/features`,
--`Utils`: `./src/utils`,
--`With`: `./src/with`
+- `Screens`: `./src/screens`,
+- `Features`: `./src/features`,
+- `Utils`: `./src/utils`,
+- `With`: `./src/with`
 
 All global directories start with a Capital letter contrasting popular folder naming techniques in order to differentiate that they are an absolute value.  Each global directory has a specific purpose.
 
